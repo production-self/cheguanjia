@@ -1,4 +1,4 @@
-package com.cheguanjia.model;
+package com.cheguanjia.entity;
 
 import javax.persistence.*;
 

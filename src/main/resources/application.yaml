@@ -9,9 +9,11 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: root
-system:
-  seach:
-    key: 95f4ce6a6f1c2e836fed27c22cc259f7
+juhe:
+  key: 95f4ce6a6f1c2e836fed27c22cc259f7
+wx:
+  appid:
+  secret:
 
 
 
